@@ -45,3 +45,15 @@ pre{
     padding-bottom: 10px;
     table-layout: fixed;
 }
+
+.btn{
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    background-color: steelblue;
+    color: white;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: rgba(70, 131, 180, 0.698);
+}
